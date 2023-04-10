@@ -1,4 +1,4 @@
-package curso.java.exercicio.vetor.entities;
+package curso.java.exercicios.vetor.entities;
 
 public class Product {
     private String name;

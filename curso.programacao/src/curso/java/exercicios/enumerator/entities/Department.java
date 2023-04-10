@@ -1,4 +1,4 @@
-package curso.java.exercicio.enumerator.entities;
+package curso.java.exercicios.enumerator.entities;
 
 public class Department {
     private String name;

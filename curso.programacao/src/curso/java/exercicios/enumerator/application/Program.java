@@ -1,9 +1,9 @@
-package curso.java.exercicio.enumerator.application;
+package curso.java.exercicios.enumerator.application;
 
-import curso.java.exercicio.enumerator.entities.Department;
-import curso.java.exercicio.enumerator.entities.HourContract;
-import curso.java.exercicio.enumerator.entities.Worker;
-import curso.java.exercicio.enumerator.entities.WorkerLevel;
+import curso.java.exercicios.enumerator.entities.Department;
+import curso.java.exercicios.enumerator.entities.HourContract;
+import curso.java.exercicios.enumerator.entities.Worker;
+import curso.java.exercicios.enumerator.entities.WorkerLevel;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

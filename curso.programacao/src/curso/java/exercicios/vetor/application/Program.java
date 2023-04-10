@@ -1,6 +1,6 @@
-package curso.java.exercicio.vetor.application;
+package curso.java.exercicios.vetor.application;
 
-import curso.java.exercicio.vetor.entities.Product;
+import curso.java.exercicios.vetor.entities.Product;
 
 import java.util.Locale;
 import java.util.Scanner;

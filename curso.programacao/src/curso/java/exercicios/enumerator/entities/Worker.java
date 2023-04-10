@@ -1,4 +1,4 @@
-package curso.java.exercicio.enumerator.entities;
+package curso.java.exercicios.enumerator.entities;
 
 import java.util.ArrayList;
 import java.util.Calendar;
